@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LetsChat</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="welcome">Welcome</string>
+    <string name="select_picture_title">Select Picture..</string>
+    <string name="sendPhoto">Send Photo</string>
+    <string name="sendPhotoGallery">Send Photo Gallery</string>
+    <string name="sendLocation">Send Location</string>
+    <string name="sign_out">Signout</string>
+    <string name="api_key_google_places">API_KEY</string>
+    <string name="continue_with_facebook">Continue with facebook</string>
+    <string name="close">Close</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="error_in_login">Error in login!</string>
+    <string name="no_internet">No internet!</string>
+    <string name="login_failed">Login failed!</string>
+</resources>
